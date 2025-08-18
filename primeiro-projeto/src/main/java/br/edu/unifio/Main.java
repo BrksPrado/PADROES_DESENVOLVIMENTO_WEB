@@ -8,6 +8,5 @@ public class Main {
         String senha = RandomStringUtils.insecure().nextAlphabetic(8);
 
         System.out.println("VALOR SENHA: " + senha);
-
     }
 }
