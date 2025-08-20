@@ -1,7 +1,7 @@
 
 # Projeto Quarkus - PDW - 2025
 
-Projeto de Padrões de Desenvolvimento Web
+Repositório de Padrões de Desenvolvimento Web
 
 Este repositório contém implementações desenvolvidas para a disciplina de Engenharia de Software, com foco em padrões de desenvolvimento web.
 
